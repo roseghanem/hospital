@@ -1,0 +1,24 @@
+{
+  "name": "Hospital",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "core-js": "^3.25.3",
+    "datatables.net-dt": "^1.13.4",
+    "jquery": "^3.6.4",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-session": "^1.0.0",
+    "vue-template-compiler": "^2.7.10",
+    "webpack": "^4.46.0"
+  }
+}
